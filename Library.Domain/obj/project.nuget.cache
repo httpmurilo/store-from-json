@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V//zdxoX8kYnsQhlxdiX6N9twSqmvP1zYLvEE0MECeS/amULA7jw7qP1gRIonm64Jg6YbOMoydB3GKRZKB71fw==",
+  "success": true,
+  "projectFilePath": "/Volumes/BOOTCAMP/estudos/newrelic/Library.Domain/Library.Domain.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
